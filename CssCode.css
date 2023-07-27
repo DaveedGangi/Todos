@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-Container {
+    background-image: url("https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    height: 200vh;
+    background-size: cover;
+
+
+}
+
+.checked {
+    text-decoration: line-through;
+}
+
+.usersStyle {
+    width: 80%;
+    border-radius: 6px;
+    border-width: 0.4px;
+    height: 40px;
+    padding-left: 15px;
+    border-color: #4dffff;
+    box-shadow: 1px 2px 2px #00ffff;
+    margin-left: 12px;
+}
+
+.Todosheading {
+    text-align: center;
+    margin: 12px;
+    color: black;
+    font-family: Grestal Script;
+
+
+}
+
+.addStyle {
+    margin: 12px;
+    width: 120px;
+}
+
+.saveStyle {
+    margin: 12px;
+    width: 120px;
+}
+
+.StyleLabelContainer {
+    background-color: #00ffff;
+    margin: 7px;
+    border-radius: 5px;
+    width: 100%;
+    border-color: #ff4d94;
+    border-style: solid;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    box-shadow: 1px 1px 1px 2px #cce6ff;
+    border-width: 2px;
+
+}
+
+.CheckBoxButtonStyle {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-right: 18px;
+
+}
+
+.labelStyle {
+    width: 82%;
+    font-family: Sweet Sensations;
+    padding-left: 20px;
+    padding-top: 10px;
+
+
+}
+
+.delete-icon-container {
+    text-align: right;
+    width: 18%;
+}
+
+.delete-icon {
+    padding: 15px;
+}
